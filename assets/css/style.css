@@ -4,7 +4,9 @@
     box-sizing: border-box;
 }
 
-body {}
+body {
+    font-family: "Roboto", sans-serif;
+}
 
 h2 {
     margin-left: 500px;
@@ -54,6 +56,7 @@ a {
 
 .menu-item:hover .sub-menu {
     display: block;
+    /* color: #F68E3A; */
 }
 
 .sub-menu2 {
@@ -73,4 +76,5 @@ a {
 
 .menu-item2:hover .sub-menu2 {
     display: block;
+    /* color: #F68E3A; */
 }
